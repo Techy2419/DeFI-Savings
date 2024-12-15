@@ -2,7 +2,6 @@
 
 A secure, non-custodial wallet application for managing cross-chain DeFi savings, built with React, TypeScript, and Turnkey.
 
-![DeFi Savings Wallet](./src/assets/screenshot.png)
 
 ## Features
 
